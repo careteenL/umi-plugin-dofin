@@ -1,0 +1,26 @@
+{
+  "name": "@focus/umi-plugin-dofin",
+  "author": "Careteen <15074806497@163.com>",
+  "version": "0.0.1",
+  "main": "dist/cjs/index.js",
+  "types": "dist/cjs/index.d.ts",
+  "scripts": {
+    "dev": "father dev",
+    "build": "father build"
+  },
+  "keywords": [],
+  "authors": {
+    "name": "Careteen <15074806497@163.com>",
+    "email": "15074806497@163.com"
+  },
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "father": "^4.1.8",
+    "umi": "^3.5.8",
+    "@types/node": "^18.15.11",
+    "typescript": "^5.0.3"
+  }
+}
